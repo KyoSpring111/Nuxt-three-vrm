@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@pixiv/three-vrm": "^0.2.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "three": "^0.111.0",
     "three-gltf-loader": "^1.111.0"
   },
